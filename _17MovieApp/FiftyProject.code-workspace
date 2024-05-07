@@ -1,0 +1,40 @@
+{
+	"folders": [
+		{
+			"path": "C:/Users/Rashi/Downloads/basics-assignment-2-start"
+		},
+		{
+			"path": "C:/Users/Rashi/Downloads/basics-11-subtract-multiply-divide"
+		},
+		{
+			"path": "C:/Users/Rashi/Downloads/functions-01-starting-code"
+		},
+		{
+			"path": "C:/Users/Rashi/Downloads/dom-06-demo-project-setup"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "C:/Users/Rashi/Downloads/dom-14-finished/dom-14-finished"
+		},
+		{
+			"path": "C:/Users/Rashi/Downloads/objects-08-dynamic-property-access"
+		},
+		{
+			"path": "C:/Users/Rashi/Downloads/oop-01-starting-setup"
+		},
+		{
+			"path": "C:/Users/Rashi/Downloads/oop-11-error-function-methods-properties"
+		},
+		{
+			"path": "C:/Users/Rashi/Downloads/practice-oop-01-starting-setup"
+		},
+		{
+			"path": "C:/Users/Rashi/Downloads/http-01-starting-setup/http-01-starting-setup"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "FiftyProjects"
+	}
+}
